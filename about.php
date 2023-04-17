@@ -14,7 +14,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">ThapaTechnical</a>
+  <a class="navbar-brand" href="#">Bharath Mohan </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -43,7 +43,7 @@
   </div>
 </nav>
 <div class="jumbotron">
-  <h1 class="text-uppercase">Thapa Technical :) </h1> 
+  <h1 class="text-uppercase">Bharath Mohan </h1> 
   <p class="text-capitalize"> We the Web developers. <span class="text-uppercase">like, share & subscribe</span>.</p> 
 </div>
 <section class="m-5">
@@ -55,7 +55,7 @@
       <img src="images/cc3.jpg" class="img-fluid aboutimg" >
     </div>
     <div class="col-lg-6 col-12">
-      <h2 class="display-4"> I am thapa technical. </h2>
+      <h2 class="display-4"> Bharath Mohan </h2>
       <p class="py-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
@@ -67,7 +67,7 @@
 
 <footer>
   <div class=" bg-dark text-center text-capitalize">
-    <h5 class="py-3 text-white">@ThapatechnicalProduction</h5>
+    <h5 class="py-3 text-white">@BharathMohan</h5>
   </div>
 </footer>
 
